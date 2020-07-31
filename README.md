@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**mosfeqanik/mosfeqanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mosfeqanik/mosfeqanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 I am Anik.i have receive my 4yr graduation Degree from Daffodil International University on Computer Science and Engineering. i am passionate about programming, coding and technologies. i am leaning about new language and Technologies.thanks for your time:
 
