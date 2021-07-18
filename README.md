@@ -3,9 +3,9 @@
 <!--
 **mosfeqanik/mosfeqanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am Anik.i have completed my 4yr B.Sc Csegraduation Degree from Daffodil International University. 
+I am Anik.i am a flutter developer.exploring about new topics about about flutter
 
-i am a flutter developer.exploring about new topics about about flutter
+i have completed my 4yr B.Sc Csegraduation Degree from Daffodil International University. 
 
 i am passionate about programming, coding and technologies. i am leaning about new language and Technologies.
 
