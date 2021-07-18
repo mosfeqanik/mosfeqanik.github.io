@@ -3,7 +3,11 @@
 <!--
 **mosfeqanik/mosfeqanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am Anik.i have received my 4yr graduation Degree from Daffodil International University on Computer Science and Engineering. i am passionate about programming, coding and technologies. i am leaning about new language and Technologies.
+I am Anik.i have completed my 4yr B.Sc Csegraduation Degree from Daffodil International University. 
+
+i am a flutter developer.exploring about new topics about about flutter
+
+i am passionate about programming, coding and technologies. i am leaning about new language and Technologies.
 
 - 🔭 I’m currently working on Java,php,kotlin,Wordpress customization,Android,Laravel
 - 👯 I’m looking to collaborate on open Source as well as any other projecs written java/PHP
