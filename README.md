@@ -2,10 +2,12 @@
 
 <!--
 **mosfeqanik/mosfeqanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<p align="center">
+  ![Alt Text](https://github.com/mosfeqanik/mosfeqanik/blob/master/Mosfeq_anik_github.gif)
+</p>
 
-![Alt Text](https://github.com/mosfeqanik/mosfeqanik/blob/master/Mosfeq_anik_github.gif)
-
-i am a flutter developer.exploring about new topics about about flutter
+i am a flutter developer.
+exploring about new topics about flutter
 
 Mosfeqanik01@gmail.com
 
