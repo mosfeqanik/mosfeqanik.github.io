@@ -5,6 +5,8 @@
 
 I am Anik.i am a flutter developer.exploring about new topics about about flutter
 
+Mosfeqanik01@gmail.com
+
 i have completed my 4yr B.Sc Csegraduation Degree from Daffodil International University. 
 
 i am passionate about programming, coding and technologies. i am leaning about new language and Technologies.
