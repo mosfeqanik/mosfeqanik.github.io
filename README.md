@@ -5,9 +5,7 @@
   <img width="600" src="https://github.com/mosfeqanik/mosfeqanik/blob/master/Mosfeq_anik_github.gif" alt="Material Bread logo">
 </p>
 
-<p align="center" style="width:300;height:300">
-  ### i am a flutter developer.
-</p>
+### i am a flutter developer
 
 exploring about new topics about flutter
 
