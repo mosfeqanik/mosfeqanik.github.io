@@ -11,11 +11,12 @@ exploring about new topics about flutter
 
 ### Mosfeqanik01@gmail.com
 
+<p align="center">
 i have completed my 4yr B.Sc Csegraduation Degree from Daffodil International University. 
 
-i am passionate about programming, coding and technologies. i am leaning about new language and Technologies.
+i am passionate about programming, coding and technologies. 
 
 - 👯 Love to work with teamwork
 - 🤔 Like Travelling and Exploring New Places
 - 📫 How to reach me: [Github](https://github.com/mosfeqanik/) [LinkedIn](https://www.linkedin.com/in/mosfeqanik/) [Skype: mosfeqanik01](live:mosfeqanik01)
-thanks for your time
+</p>
