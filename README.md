@@ -3,7 +3,7 @@
 <!--
 **mosfeqanik/mosfeqanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <p align="center">
-  ![Alt Text](https://github.com/mosfeqanik/mosfeqanik/blob/master/Mosfeq_anik_github.gif)
+  <img width="200" src="https://github.com/mosfeqanik/mosfeqanik/blob/master/Mosfeq_anik_github.gif" alt="Material Bread logo">
 </p>
 
 i am a flutter developer.
