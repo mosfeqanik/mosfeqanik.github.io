@@ -3,7 +3,9 @@
 <!--
 **mosfeqanik/mosfeqanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am Anik.i am a flutter developer.exploring about new topics about about flutter
+![Mosfeq_anik_github.gif](.gif)
+
+i am a flutter developer.exploring about new topics about about flutter
 
 Mosfeqanik01@gmail.com
 
