@@ -3,7 +3,7 @@
 <!--
 **mosfeqanik/mosfeqanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![Mosfeq_anik_github.gif](.gif)
+![Mosfeq_anik_github](.gif)
 
 i am a flutter developer.exploring about new topics about about flutter
 
