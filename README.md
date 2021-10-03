@@ -12,7 +12,7 @@ exploring about new topics about flutter
 ### Mosfeqanik01@gmail.com
 
 
-i have completed my 4yr B.Sc Csegraduation Degree from Daffodil International University. 
+i have completed my 4yr B.Sc Cse graduation Degree from Daffodil International University. 
 
 ###dart ###java ###kotlin 
 ###flutter
