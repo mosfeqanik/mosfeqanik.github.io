@@ -5,7 +5,7 @@
   <img width="600" src="https://github.com/mosfeqanik/mosfeqanik/blob/master/Mosfeq_anik_github.gif" alt="Material Bread logo">
 </p>
 
-### I am a flutter developer
+### I am a Application developer
 
 Check Out my Repository
 
@@ -19,7 +19,7 @@ i have completed my 4yr B.Sc Csegraduation Degree from Daffodil International Un
 ###dart ###java ###kotlin 
 ###flutter
 ###passionate_about_Progamming 
-
+##figma 
 
 i am passionate about programming, coding and technologies. 
 
