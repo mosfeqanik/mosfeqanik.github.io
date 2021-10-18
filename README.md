@@ -12,14 +12,16 @@ exploring about new topics about flutter
 
 i have completed my 4yr B.Sc Cse graduation Degree from Daffodil International University. 
 
-###dart ###java ###kotlin 
+###dart 
+###java 
+###kotlin 
 ###flutter
 ###passionate_about_Progamming 
 ##figma 
 
 i am passionate about programming, coding and technologies. 
 
-- 👯 Love to work with teamwork
+- 👯 Love to work with team
 - 🤔 Like Travelling and Exploring New Places
 - 📫 How to reach me: [Github](https://github.com/mosfeqanik/) [LinkedIn](https://www.linkedin.com/in/mosfeqanik/) [Skype: mosfeqanik01](live:mosfeqanik01)
 
