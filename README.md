@@ -1,9 +1,7 @@
 
 <!--
 **mosfeqanik/mosfeqanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<p align="center">
-  <img width="600" src="https://github.com/mosfeqanik/mosfeqanik/blob/master/Mosfeq_anik_github.gif" alt="Material Bread logo">
-</p>
+
 
 ###Check Out my Repository
 
