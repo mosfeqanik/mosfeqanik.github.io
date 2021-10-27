@@ -31,9 +31,6 @@
 <img align="left" alt="Gitlab"height="70px"src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_15680ee909406e13c21c8f179f83d99e/gitlab.png" />
 <img align="left" alt="bitbucket" height="70px" src="https://pbs.twimg.com/profile_images/1026981625291190272/35O2KIRX_400x400.jpg" />
 <br />
-<img align="left" alt="Terminal" height="70px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-
 
 <br />
 
