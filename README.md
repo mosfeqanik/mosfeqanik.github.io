@@ -22,15 +22,15 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Flutter" width="50px" src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" />]
-[<img align="left" alt="Dart" width="26px" src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg" />]
-[<img align="left" alt="android" width="26px" src="https://github.com/mosfeqanik/money-management-UI/blob/main/assets/images/androidLogo.png" />]
-[<img align="left" alt="figma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Gitlab" width="26px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_15680ee909406e13c21c8f179f83d99e/gitlab.png" />]
-[<img align="left" alt="bitbucket" width="26px" src="https://pbs.twimg.com/profile_images/1026981625291190272/35O2KIRX_400x400.jpg" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+<img align="left" alt="Flutter" width="50px" src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" />
+<img align="left" alt="Dart" width="26px" src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg" />
+<img align="left" alt="android" width="26px" src="https://github.com/mosfeqanik/money-management-UI/blob/main/assets/images/androidLogo.png" />
+<img align="left" alt="figma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Gitlab" width="26px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_15680ee909406e13c21c8f179f83d99e/gitlab.png" />
+<img align="left" alt="bitbucket" width="26px" src="https://pbs.twimg.com/profile_images/1026981625291190272/35O2KIRX_400x400.jpg" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
