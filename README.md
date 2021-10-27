@@ -35,3 +35,8 @@
 <br />
 
 ---
+[website]: https://mosfeqanik.com
+[Facebook]: https://www.facebook.com/mosfeqanik
+[twitter]: https://twitter.com/Mosfeqanik_
+[linkedin]: https://www.linkedin.com/in/mosfeqanik/
+[instagram]: https://www.instagram.com/mosfeqanik/
