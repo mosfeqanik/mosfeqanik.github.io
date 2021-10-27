@@ -22,7 +22,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Flutter" width="140px" height="60px" src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" />
+<img align="left" alt="Flutter" width="200px" height="70px" src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" />
 <img align="left" alt="Dart" width="26px" src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg" />
 <img align="left" alt="android" width="26px" src="https://github.com/mosfeqanik/money-management-UI/blob/main/assets/images/androidLogo.png" />
 <img align="left" alt="figma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
