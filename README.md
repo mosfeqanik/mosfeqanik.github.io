@@ -1,5 +1,4 @@
 ### Hi there, I'm Anik  👋
-## I'm Son, brother, Developer, Teammate and Teacher!!
 
 - 🔭 Currently Working as flutter Developer at pondits & Barcode Tech Automation
 - 🌱 I’m currently learning flutter,bloc,getx,rxdart
