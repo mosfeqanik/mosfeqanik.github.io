@@ -1,9 +1,10 @@
 ### Hi there, I'm Anik  👋
 
-- 🔭 Currently Working as flutter Developer at pondits & Barcode Tech Automation
-- 🌱 I’m currently learning flutter,bloc,getx,rxdart
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: create Application with flutter and Contribute more to Open Source projects
+- 🔭 Currently Working as Software Engineer(Mobile) at Dream71 Bangladesh LTD
+- 🔭 Formal Software Engineer(Mobile) at pondits & Barcode Tech Automation
+- 🌱 I’m currently learning flutter,bloc,getx,get cli
+- 👯 I will collaborate with other content creators
+- 🥅 2022 Goals: create Application with flutter and Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel + be adventurous N explore more and more
 
 ### Connect with me:
