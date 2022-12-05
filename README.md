@@ -3,11 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosfeqanik&label=Profile%20views&color=0e75b6&style=flat" alt="mosfeqanik" /> </p>
 
-
+<p align="left">I am ceritified in Flutter Mobile Application Development and Android Developement .
+I have 3+ year of Coding experience with 2 years of production level Coding experience in
+Mobile App development with an Understanding Knowledge of MVP,MVC & MVVM Software
+Architectural Patterns.Rest Architectural pattern according to SRS(Software requirements
+specification), SDD(Software design description), FRS(functional requirement specification),
+BRD(business requirements document)
+By following Agile practices, I have participated in Team Coordination, Process Engineering,
+Requirement Analysis, Data entry & Analysis.I am a highly positive thinker, a Quick learner,
+Problem Solver, a good team member, and can work under pressure </p>
 
 <p align="left"> <a href="https://twitter.com/mosfeqanik_" target="blank"><img src="https://img.shields.io/twitter/follow/mosfeqanik_?logo=twitter&style=for-the-badge" alt="mosfeqanik_" /></a> </p>
 
-- 🔭 I’m currently working on HEU(SSK) APP | Mochta APP | BGMEA CASH inceptive APP
+- 🔭 I’m currently working on HEU(SSK) APP | Mochta APP | BGMEA CASH inceptive APP| RuBims
 
 - 🌱 I’m currently learning **Flutter,IOS,NodeJs,ReactJS**
 
