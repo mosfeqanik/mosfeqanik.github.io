@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosfeqanik&label=Profile%20views&color=0e75b6&style=flat" alt="mosfeqanik" /> </p>
 
-<p align="left">I am ceritified in Flutter Mobile Application Development and Android Developement .
+<p align="left">
 I have 3+ year of Coding experience with 2 years of production level Coding experience in
 Mobile App development with an Understanding Knowledge of MVP,MVC & MVVM Software
 Architectural Patterns.Rest Architectural pattern according to SRS(Software requirements
