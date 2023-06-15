@@ -8,20 +8,20 @@ I am a positive thinker, a creative good team leader, learner who can work under
 
 <p align="left"> <a href="https://twitter.com/mosfeqanik_" target="blank"><img src="https://img.shields.io/twitter/follow/mosfeqanik_?logo=twitter&style=for-the-badge" alt="mosfeqanik_" /></a> </p>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently worked
     BGMEA(Cash Incentive App),
     HEU(Health Economics Unit) SSK Survey
-    Mochta (Ministry of Chittagong Hill Tracts Affairs),
     LGED RuBIMS (Rural Bridge Information Management System),
     ACIT(Agriculture Communication And Information Technology)
     iLKMS(Bangladesh Land Ministry)
-    CDSP Krishi(Char Development and Settlement Project) 
+- 🔭 I’m currently working 
+   CDSP Krishi(Char Development and Settlement Project)     Mochta (Ministry of Chittagong Hill Tracts Affairs),
 
 - 🌱 I’m currently learning **Flutter,IOS**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 worked with Flutter 
-Bloc, riverpod,Getx,Get Cli,Provider,localization translation, Payment Gateway,Firebase Push Notification,Dio,http(central RESTful API,Authorization & File),Google Map API,Work manager,Sqflite,hive,favor,Text & Voice Recognition speech
+Bloc, riverpod,Getx,Get Cli,Provider,localization translation, Payment Gateway,Firebase Push Notification,Dio,http(central RESTful API,Authorization & File),Google Map API,Work manager,Sqflite,hive,Flavors,Text & Voice Recognition speech
 API JSON documentation
   Projects link
 https://play.google.com/store/apps/developer?id=Dream+71
