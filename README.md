@@ -4,22 +4,33 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosfeqanik&label=Profile%20views&color=0e75b6&style=flat" alt="mosfeqanik" /> </p>
 
 <p align="left">
-I have 3+ year of Coding experience with 2 years of production level Coding experience in
-Mobile App development with an Understanding Knowledge of MVP,MVC & MVVM Software
-Architectural Patterns.Rest Architectural pattern according to SRS(Software requirements
-specification), SDD(Software design description), FRS(functional requirement specification),
-BRD(business requirements document)
-By following Agile practices, I have participated in Team Coordination, Process Engineering,
-Requirement Analysis, Data entry & Analysis.I am a highly positive thinker, a Quick learner,
-Problem Solver, a good team member, and can work under pressure </p>
+I am a positive thinker, a creative good team leader, learner who can work under pressure. My remarkable virtues are honesty, Devoted, Optimistic, Flexible Transparent, and Focused on Solutions oriented person. Currently working in the job role of Software Engineer at Dream71 Bangladesh LTD. where I utilize my understanding of coding and software development to efficiently fulfill the requirements of clients and customers. </p>
 
 <p align="left"> <a href="https://twitter.com/mosfeqanik_" target="blank"><img src="https://img.shields.io/twitter/follow/mosfeqanik_?logo=twitter&style=for-the-badge" alt="mosfeqanik_" /></a> </p>
 
-- 🔭 I’m currently working on HEU(SSK) APP | Mochta APP | BGMEA CASH inceptive APP| RuBims
+- 🔭 I’m currently working on 
+    BGMEA(Cash Incentive App),
+    HEU(Health Economics Unit) SSK Survey
+    Mochta (Ministry of Chittagong Hill Tracts Affairs),
+    LGED RuBIMS (Rural Bridge Information Management System),
+    ACIT(Agriculture Communication And Information Technology)
+    iLKMS(Bangladesh Land Ministry)
+    CDSP Krishi(Char Development and Settlement Project) 
 
-- 🌱 I’m currently learning **Flutter,IOS,NodeJs,ReactJS**
+- 🌱 I’m currently learning **Flutter,IOS**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
+worked with Flutter 
+Bloc, riverpod,Getx,Get Cli,Provider,localization translation, Payment Gateway,Firebase Push Notification,Dio,http(central RESTful API,Authorization & File),Google Map API,Work manager,Sqflite,hive,favor,Text & Voice Recognition speech
+API JSON documentation
+  Projects link
+https://play.google.com/store/apps/developer?id=Dream+71
+https://apps.apple.com/ml/developer/rashad-kabir/id956444843
+https://play.google.com/store/apps/details?id=bd.gov.lged.rubims
+https://apps.apple.com/us/app/lgedfims/id1472485659
+https://play.google.com/store/apps/details?id=bd.gov.ssk.survey.ssksurveyrural
+https://play.google.com/store/apps/details?id=bd.gov.ssk.survey.ssksurveyurban
+https://play.google.com/store/apps/details?id=bd.gov.land.bhumipedia&pli=1
 
 - 🤝 I’m looking for help with **Flutter Projects**
 
