@@ -8,7 +8,7 @@ I am a positive thinker, a creative good team leader, learner who can work under
 
 <p align="left"> <a href="https://twitter.com/mosfeqanik_" target="blank"><img src="https://img.shields.io/twitter/follow/mosfeqanik_?logo=twitter&style=for-the-badge" alt="mosfeqanik_" /></a> </p>
 
-- 🔭 I’m currently worked
+- 🔭 worked
     BGMEA(Cash Incentive App),
     HEU(Health Economics Unit) SSK Survey
     LGED RuBIMS (Rural Bridge Information Management System),
