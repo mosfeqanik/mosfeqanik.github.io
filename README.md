@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anik</h1>
-<h3 align="center">A  Flutter developer from Bangladesh</h3>
+<h3 align="center">A developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosfeqanik&label=Profile%20views&color=0e75b6&style=flat" alt="mosfeqanik" /> </p>
 
@@ -17,7 +17,7 @@ I am a positive thinker, a creative good team leader, learner who can work under
 - 🔭 I’m currently working 
    CDSP Krishi(Char Development and Settlement Project)     Mochta (Ministry of Chittagong Hill Tracts Affairs),
 
-- 🌱 I’m currently learning **Flutter,IOS**
+- 🌱 I’m currently learning **Flutter,IOS,ANROID**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 worked with Flutter 
