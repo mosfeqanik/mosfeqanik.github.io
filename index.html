@@ -74,9 +74,9 @@
 
         <div class="col-lg-7 col-md-12 col-12 d-flex align-items-center">
           <div class="about-text">
-            <small class="small-text">Welcome to <span class="mobile-block">my portfolio website!</span></small>
+            <small class="small-text">Welcome to <span class="mobile-block">my website!</span></small>
             <h1 class="animated animated-text">
-              <span class="mr-2">Hey folks, I'm</span>
+              <span class="mr-2">Hello, I'm</span>
               <div class="animated-info">
                 <span class="animated-item">Anik</span>
                 <span class="animated-item">App Dev</span>
@@ -298,18 +298,24 @@
       <div class="col-lg-12 col-12">
         <div class="contact-form">
           <h2 class="mb-4">Interested to work together? Let's talk</h2>
-          <form action="https://formspree.io/f/meqylgqa" method="POST">
+          <form id="contactForm" action="https://formspree.io/f/meqylgqa" method="POST">
             <div class="row">
               <div class="col-lg-6 col-12 mb-3">
                 <input type="text" class="form-control" name="name" placeholder="Your Name" id="name">
+                <small class="error-message" id="nameError" style="color: red; display: none;">Please enter your
+                  name.</small>
               </div>
   
               <div class="col-lg-6 col-12 mb-3">
                 <input type="email" class="form-control" name="email" placeholder="Email" id="email">
+                <small class="error-message" id="emailError" style="color: red; display: none;">Please enter a valid
+                  email.</small>
               </div>
   
               <div class="col-12 mb-3">
-                <textarea name="message" rows="6" class="form-control" id="message" placeholder="Message"></textarea>
+                <textarea name="message" rows="6" class="form-control" placeholder="Message"></textarea>
+                <small class="error-message" id="messageError" style="color: red; display: none;">Please enter your
+                  message.</small>
               </div>
   
               <div class="ml-lg-auto col-lg-5 col-12">
@@ -345,7 +351,50 @@
   <script src="js/owl.carousel.min.js"></script>
   <script src="js/smoothscroll.js"></script>
   <script src="js/custom.js"></script>
+<script>
+  document.getElementById("contactForm").addEventListener("submit", function (event) {
+    let isValid = true;
 
+    // Get form fields
+    const name = document.getElementById("name").value.trim();
+    const email = document.getElementById("email").value.trim();
+    const message = document.getElementById("message").value.trim();
+
+    // Get error message elements
+    const nameError = document.getElementById("nameError");
+    const emailError = document.getElementById("emailError");
+    const messageError = document.getElementById("messageError");
+
+    // Reset error messages
+    nameError.style.display = "none";
+    emailError.style.display = "none";
+    messageError.style.display = "none";
+
+    // Validate name
+    if (name === "") {
+      nameError.style.display = "block";
+      isValid = false;
+    }
+
+    // Validate email
+    const emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+    if (email === "" || !emailPattern.test(email)) {
+      emailError.style.display = "block";
+      isValid = false;
+    }
+
+    // Validate message
+    if (message === "") {
+      messageError.style.display = "block";
+      isValid = false;
+    }
+
+    // Prevent form submission if validation fails
+    if (!isValid) {
+      event.preventDefault();
+    }
+  });
+</script>
 </body>
 
 </html>
