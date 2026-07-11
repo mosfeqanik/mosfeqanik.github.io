@@ -26,6 +26,7 @@
         $('html, body').stop().animate({
             scrollTop: $($anchor.attr('href')).offset().top - 49
         }, 1000);
+        $('.navbar-collapse').collapse('hide');
         event.preventDefault();
       });
     });  

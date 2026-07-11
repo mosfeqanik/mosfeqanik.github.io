@@ -349,6 +349,9 @@ b, strong {
 	.color-mode {
 		color: $text-white;
 	}
+	p {
+		color: rgba(255, 255, 255, 0.7);
+	}
 	.owl-carousel {
 		.owl-nav button.owl-next,
 		.owl-nav button.owl-prev,
@@ -475,6 +478,14 @@ b, strong {
 }
 
 
+// PROJECT CAROUSEL IMAGES
+.project-info img {
+	width: 100%;
+	aspect-ratio: 4 / 3;
+	object-fit: cover;
+}
+
+
 // GOOGLE MAP
 .google-map {
 	iframe {
@@ -500,6 +511,13 @@ b, strong {
 		&:focus {
 			border-color: $main-color;
 		}
+	}
+	.form-error {
+		color: #ff5c5c;
+		font-size: 13px;
+		text-align: left;
+		margin-top: -0.75rem;
+		margin-bottom: 0.75rem;
 	}
 	.submit-btn {
 		background: $main-color;
@@ -533,6 +551,49 @@ b, strong {
 		font-size: 20px;
 		display: block;
 		margin: 5px 0;
+		&:hover {
+			color: $main-color;
+		}
+	}
+}
+
+
+// SECTION BACKGROUNDS
+.about,
+.project,
+.contact {
+	background-color: #f9f9f9;
+}
+
+.dark-mode .about,
+.dark-mode .project,
+.dark-mode .contact {
+	background-color: #0d0c15;
+}
+
+
+// FOOTER
+.footer_area {
+	padding: 4rem 0 2rem;
+}
+
+.footer_inner .col-lg-2 {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.social_widget {
+	text-align: center;
+	.list {
+		display: flex;
+		justify-content: center;
+		gap: 20px;
+		margin-top: 10px;
+	}
+	.list .fa {
+		font-size: 20px;
+		color: $body-font-color;
+		@include transition-effect;
 		&:hover {
 			color: $main-color;
 		}
@@ -576,6 +637,15 @@ b, strong {
 
 
 @media (max-width: 767px) {
+
+	.contact-info {
+		flex-direction: column;
+		align-items: center;
+
+		.social-links {
+			margin-top: 1.5rem;
+		}
+	}
 
 	h1 {
 		font-size: 2.4em;
@@ -643,10 +713,6 @@ b, strong {
 
 	.mobile-block {
 		display: block;
-	}
-
-	.contact-info {
-		flex-direction: column;
 	}
 
 	.social-links {

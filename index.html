@@ -19,6 +19,7 @@
   <link rel="stylesheet" href="css/unicons.css">
   <link rel="stylesheet" href="css/owl.carousel.min.css">
   <link rel="stylesheet" href="css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <meta property="fb:app_id" content="620414147141357" />
 
   <!-- MAIN STYLE -->
@@ -86,10 +87,9 @@
               </div>
             </h1>
 
-            <p></p>
-I’m a passionate Senior Mobile Software Engineer who thrives on turning complex ideas into seamless, high-performing apps. At Togumogu Pvt Ltd, I lead the development of the Togumogu Parenting App, optimizing performance, enhancing user experience, and shaping meaningful digital experiences for families.
+            <p>I’m a passionate Senior Mobile Software Engineer who thrives on turning complex ideas into seamless, high-performing apps. At Togumogu Pvt Ltd, I lead the development of the Togumogu Parenting App, optimizing performance, enhancing user experience, and shaping meaningful digital experiences for families.</p>
 
-With a deep focus on Flutter development, performance tuning, and scalable architecture, I aim to build mobile solutions that are both elegant and impactful. I believe great products aren’t just coded—they’re crafted through empathy, innovation, and precision.
+            <p>With a deep focus on Flutter development, performance tuning, and scalable architecture, I aim to build mobile solutions that are both elegant and impactful. I believe great products aren’t just coded—they’re crafted through empathy, innovation, and precision.</p>
             <div class="custom-btn-group mt-4">
               <a href="https://drive.google.com/file/d/1zH4tzIYXsvXGHMS_Z_7SJdC9Y4bsr87p/view?usp=sharing"
                 class="btn mr-lg-2 custom-btn"><i class='uil uil-file-alt'></i> Download Resume</a>
@@ -371,18 +371,21 @@ With a deep focus on Flutter development, performance tuning, and scalable archi
               <div class="contact-form">
                 <h2 class="mb-4">Interested to work together? Let's talk</h2>
   
-                <form action="https://formspree.io/f/meqylgqa" method="POST">
+                <form action="https://formspree.io/f/meqylgqa" method="POST" id="contactForm">
                   <div class="row">
                     <div class="col-lg-6 col-12">
                       <input type="text" class="form-control" name="name" placeholder="Your Name" id="name">
+                      <span id="nameError" class="form-error" style="display: none;">Please enter your name.</span>
                     </div>
-  
+
                     <div class="col-lg-6 col-12">
                       <input type="email" class="form-control" name="email" placeholder="Email" id="email">
+                      <span id="emailError" class="form-error" style="display: none;">Please enter a valid email.</span>
                     </div>
-  
+
                     <div class="col-12">
                       <textarea name="message" rows="6" class="form-control" id="message" placeholder="Message"></textarea>
+                      <span id="messageError" class="form-error" style="display: none;">Please enter a message.</span>
                     </div>
   
                     <div class="ml-lg-auto col-lg-5 col-12">
@@ -423,10 +426,10 @@ With a deep focus on Flutter development, performance tuning, and scalable archi
                 </div>
                 <p>Let us be social</p>
                 <ul class="list">
-                  <li><a href="https://www.facebook.com/mosfeqanik"><i class="fa fa-facebook"></i></a></li>
-                  <li><a href="https://x.com/Mosfeqanik_"><i class="fa fa-twitter"></i></a></li>
-                  <li><a href="https://www.linkedin.com/in/mosfeqanik/"><i class="fa fa-linkedin"></i></a></li>
-                  <li><a href="#"><i class="fa fa-behance"></i></a></li>
+                  <li><a href="https://www.facebook.com/mosfeqanik" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                  <li><a href="https://x.com/Mosfeqanik_" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                  <li><a href="https://www.linkedin.com/in/mosfeqanik/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                  <li><a href="https://github.com/mosfeqanik" target="_blank"><i class="fa fa-github"></i></a></li>
                 </ul>
               </aside>
             </div>
