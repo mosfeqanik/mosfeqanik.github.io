@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx --yes playwright install chromium)",
+      "Bash(mkdir -p /private/tmp/claude-501/-Users-mosfeqanik-StudioProjects-mosfeqanik-github-io/faf12089-b6c0-4f02-8d0a-1e9922a82efc/scratchpad/pwtest)",
+      "Read(//tmp/**)",
+      "Bash(npx playwright *)",
+      "Bash(echo \"EXIT:$?\")",
+      "Bash(node check.js)",
+      "Bash(node check_carousel.js)",
+      "Bash(pkill -f \"http.server 8123\")",
+      "Bash(curl -sI http://localhost:4000/index.html)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:4000/index.html)",
+      "Bash(node check_meta.js)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(curl -sI http://127.0.0.1:4000/)",
+      "Bash(grep -n \"Senior Mobile Engineer\\\\|100K+\\\\|Featured Mobile Apps\\\\|Portfoilo\\\\|mosfeqanik@icloud\\\\|twitter:card\\\\|name=\\\\\"author\\\\\"\" /tmp/jekyll-build-check/index.html)",
+      "Read(//private/tmp/jekyll-build-check/**)",
+      "Bash(rm -rf /tmp/jekyll-build-check)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://127.0.0.1:4000/)",
+      "Bash(curl -s http://127.0.0.1:4000/)",
+      "Bash(grep -n \"\\\\.about,\\\\|\\\\.project,\\\\|\\\\.contact {\" /Users/mosfeqanik/StudioProjects/mosfeqanik.github.io/sass/tooplate-style.scss)",
+      "Bash(git status *)",
+      "Bash(git check-ignore *)"
+    ],
+    "additionalDirectories": [
+      "/private/tmp/jekyll-build-check"
+    ]
+  }
+}
